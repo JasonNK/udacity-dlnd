@@ -16,3 +16,5 @@ face_generation/data/
 
 .idea/
 intro-to-rnns/.idea/
+face_generation/__pycache__/
+tmp/
